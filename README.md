@@ -2,9 +2,6 @@
 
 ### springML Inc Repository ###
 
-* Prototypes
-* Sample code
-
 Google Dataflow Jobs
 --------------------
 
